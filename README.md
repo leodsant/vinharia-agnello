@@ -12,9 +12,5 @@ Sistema básico para cadastro e análise de vinhos artesanais da Vinheira Agnell
 Você pode acessar a versão publicada deste projeto através do link abaixo:
 https://leodsant.github.io/vinharia-agnello/
  
-## 📷 Imagens de Demonstração
-![Alt Text](./imagem.png)
-![Alt Text](./imagem2.png)
- 
 ---
 Este projeto foi desenvolvido para fins acadêmicos e de gestão interna da Vinheira Agnello.
